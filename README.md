@@ -92,6 +92,10 @@ Source: [http://kodi.wiki/view/Advancedsettings.xml](http://kodi.wiki/view/Advan
 
 We may need to backup the kodi config file.
 
+## Start a turned-off Kodi on a running platform using Kore
+
+Take a look at [Keakup](https://github.com/Ventto/kakeup).
+
 ## FAQ
 ###Issue: "lsb_release : command not found" ?
 ```
